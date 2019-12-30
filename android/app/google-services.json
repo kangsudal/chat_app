@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "148513023555",
+    "firebase_url": "https://chat-app-fb1c4.firebaseio.com",
+    "project_id": "chat-app-fb1c4",
+    "storage_bucket": "chat-app-fb1c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148513023555:android:18cac84043807986b556f6",
+        "android_client_info": {
+          "package_name": "com.kangsudal.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148513023555-8ggk0191u0cu11gpia5nl6s92k09u0re.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzLCAETNopLbxB-JzkpNbHFgBM9N1Vf00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148513023555-8ggk0191u0cu11gpia5nl6s92k09u0re.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
